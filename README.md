@@ -51,11 +51,11 @@ your current high score, your current score will now be the new high score.
 
  
 ## Screenshots
-![Start screen](screenshots/start.png)
-![Question screen](screenshots/question.png)
-![Answer feedback](screenshots/feedback.png)
-![Results screen](screenshots/results.png)
-![High score after reopening](screenshots/high_score.png)
+![Start screen](Screenshots/Start.png)
+![Question screen](Screenshots/Question.png)
+![Answer feedback](Screenshots/Feedback.png)
+![Results screen](Screenshots/Results.png)
+![High score after reopening](Screenshots/High_score.png)
  
 ## Challenges I Faced
 I have to manually format each labels and buttons
